@@ -11,6 +11,8 @@
 
 # World Health Statistics: Explored data from the CDC and focused on subjects like basic sanitization, alcohol use, women's violence, and more. Used data visualization tools such as plotly and seaborn to generate meaninful graphs of the data and check the validity against online articles or general assumptions people have.
 
+# Covid Vaccines in Israel Analysis: Looked at data from Kaggle showing the vaccination status of everyone in Israel. Mainly focused on using seaborn to create barplots that clearly showed how being vaccinated significantly reduced the chances of dying or suffering a severe effect from Covid-19.
+
 # Telecom Analysis and Predictions: Task to predict whether a client will renew their contract with the company. Using libraries like seaborn and matplotlib, I was able to analyze the data in unique ways that revealed new conclusions about the data. I also used multiple models including Regression, SVM's, Ensemble methods, and Neural Networks to find the model that best predicts whether a client will renew the contract or not.
 
 # Android Permissions: Using data for Android apps to figure out whether or not an app is a scam. Mainly focused on Data Engineering and NLP to extract best features from model with over 100 features. Reached accuracy of 82% with Gradient Boosting.
