@@ -15,4 +15,6 @@
 
 # Telecom Analysis and Predictions: Task to predict whether a client will renew their contract with the company. Using libraries like seaborn and matplotlib, I was able to analyze the data in unique ways that revealed new conclusions about the data. I also used multiple models including Regression, SVM's, Ensemble methods, and Neural Networks to find the model that best predicts whether a client will renew the contract or not.
 
+# Predicting Anxiety, Depression, and Stress: Explored enviornmental factors and types of personalities to see how they can affect severity of depression in people. Used ML Models such as Logistic Regression, Random Forest, Gradient Boosting, and Deep Learning to find the best way to predict Multi-classification dataset.
+
 # Android Permissions: Using data for Android apps to figure out whether or not an app is a scam. Mainly focused on Data Engineering and NLP to extract best features from model with over 100 features. Reached accuracy of 82% with Gradient Boosting.
