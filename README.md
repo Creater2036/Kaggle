@@ -7,6 +7,8 @@
 
 # Asteroid Results: Cleaning the data, along with using sklearn and tensorflow to find the best predictive model that can predict whether an asteroid will hit earth or not
 
+# Causes of Deaths: Data Engineering with multiple manual functions. Used multiple visualization libraries such as matplotlib, seaborn and plotly to outline deaths around the world and in the US.
+
 # ML-Severity: Challenge to predict how severe a car accident is. Required lots of data cleaning using encoding, filling in missing values, and new columns. Used Neural Networks and Random Forest for the multi-classification task.
 
 # World Health Statistics: Explored data from the CDC and focused on subjects like basic sanitization, alcohol use, women's violence, and more. Used data visualization tools such as plotly and seaborn to generate meaninful graphs of the data and check the validity against online articles or general assumptions people have.
