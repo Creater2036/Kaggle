@@ -5,7 +5,7 @@
 
 # Suicide Rates: Using data visualization with plotly and pandas to discover patterns about suicide rates throughout countries.
 
-# Asteroid Results: Cleaning the data, along with using sklearn and tensorflow to find the best predictive model that can predict whether an asteroid will hit earth or not
+# Asteroid Results: Cleaning the data, along with using sklearn and tensorflow to find the best predictive model that can predict whether an asteroid will hit earth or not.
 
 # Causes of Deaths: Data Engineering with multiple manual functions. Used multiple visualization libraries such as matplotlib, seaborn and plotly to outline deaths around the world and in the US.
 
